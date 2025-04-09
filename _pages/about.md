@@ -57,7 +57,7 @@ redirect_from:
 
 
  
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='-xscg'></span>
 
 # 📝 学术成果
 
@@ -104,7 +104,7 @@ redirect_from:
 
 
 
-<span class='anchor' id='-ryjx'></span>
+<span class='anchor' id='-kyxm'></span>
 
 <h3>💻 科研项目</h3>
 
@@ -140,19 +140,21 @@ redirect_from:
   </div>
 </div>
 
+<span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
+<h3>🏅 荣誉奖项</h3> 
 - *2024.8* 获得 中国大学生计算机博弈大赛——第十七届中国计算机博弈锦标赛 `一等奖`  
 - *2024.4* 获得 中国国家大学生创新设计训练计划项目 `专业第一名, 国家级优秀结题`  
 - *2023.8* 获得 中国大学生生物医学工程创新设计大赛 `第一名, 二等奖` 
 - *2023.8* 获得 中国大学生计算机博弈大赛——第十七届中国计算机博弈锦标赛 `二等奖`  
 
+
 <span class='anchor' id='-xshy'></span>
 
-# 🏛️ 学术会议
+<h3>🏅 学术会议</h3> 
 - *2024.8*, International Joint Conferences on Artificial Intelligence, 韩国济州岛, 受邀报告
 
-<span class='anchor' id='-gzsx'></span>
+<!-- <span class='anchor' id='-gzsx'></span> -->
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/IJCAI2025.svg' alt="sym" width="100%"></div></div>
