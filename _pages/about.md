@@ -29,7 +29,7 @@ My research interests include:
 
 ### Published Papers
 
-- Wang, X.^1^, `Liu, H.`^1^, Zhang, Y., Zhao, B., Duan, H., Hu, W., ... & Li, C. (2025). Joint Modelling Histology and Molecular Markers for Cancer Classification. Medical Image Analysis, 102(4): 103505.
+- Wang, X. ^1^, `Liu, H.` ^1^, Zhang, Y., Zhao, B., Duan, H., Hu, W., ... & Li, C. (2025). Joint Modelling Histology and Molecular Markers for Cancer Classification. Medical Image Analysis, 102(4): 103505.
 [[网页]](https://www.sciencedirect.com/science/article/pii/S1361841525000532) [[预览]](https://arxiv.org/pdf/2502.07979) [[下载]](/paper/MedIA.pdf)
 
 - `Liu, H.`^1^, Wang, Z.* ^,1^, Zhao, B., Shen, Q., Li, M., Que, N., ... & Xin, J.* (2024, August). Multi-scale context-aware networks based on fragment association for human activity recognition. In Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (pp. 3169-3177).
