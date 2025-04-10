@@ -98,6 +98,7 @@ redirect_from:
 
 ### Patents
 - `Liu, H.`, Zhao, B., Wang, Z. A Comprehensive Optimization Method for Human Activity Recognition Based on Multi-scale Metric Learning. (Accepted)
+
 ### Software Copyright
 -  Zhao, B., `Liu, H.`, Wang, Z. Multi-scale Neural Network Based Action Recognition System V1.0. (Accepted)
 
